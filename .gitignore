@@ -30,6 +30,18 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+Launcher.API/[Bb]in/
+Launcher.API/[Oo]bj/
+Launcher.API/[Ll]og/
+Launcher.API/[Ll]ogs/
+[Bb]in/*
+[Oo]bj/*
+[Ll]og/*
+[Ll]ogs/*
+Launcher.API/[Bb]in/*
+Launcher.API/[Oo]bj/*
+Launcher.API/[Ll]og/*
+Launcher.API/[Ll]ogs/*
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -348,3 +360,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+*.cache
+Launcher.API/obj/Launcher.API.csproj.nuget.dgspec.json
+Launcher.API/obj/project.assets.json
+Launcher.API/obj/Launcher.API.csproj.nuget.dgspec.json
