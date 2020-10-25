@@ -364,3 +364,4 @@ MigrationBackup/
 Launcher.API/obj/Launcher.API.csproj.nuget.dgspec.json
 Launcher.API/obj/project.assets.json
 Launcher.API/obj/Launcher.API.csproj.nuget.dgspec.json
+*.cache
