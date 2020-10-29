@@ -12,11 +12,14 @@
     <Copyright>Copyright © Czompi Software 2020</Copyright>
     <AssemblyVersion>3.0.1.0</AssemblyVersion>
     <FileVersion>3.0.1.0</FileVersion>
+    <LangVersion>8.0</LangVersion>
     <OutputPath>bin\$(Configuration)\</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ModuleProvider\" />
+    <Compile Remove="ModuleProvider\**" />
+    <EmbeddedResource Remove="ModuleProvider\**" />
+    <None Remove="ModuleProvider\**" />
   </ItemGroup>
 
 </Project>
