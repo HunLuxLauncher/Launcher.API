@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Minecraft\\C#\\HunLux\\Launcher\\Launcher.API\\Launcher.API.csproj": {}
+    "D:\\GitHub.HunLuxLauncher\\Launcher.API\\Launcher.API\\Launcher.API.csproj": {}
   },
   "projects": {
-    "P:\\Minecraft\\C#\\HunLux\\Launcher\\Launcher.API\\Launcher.API.csproj": {
+    "D:\\GitHub.HunLuxLauncher\\Launcher.API\\Launcher.API\\Launcher.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Minecraft\\C#\\HunLux\\Launcher\\Launcher.API\\Launcher.API.csproj",
+        "projectUniqueName": "D:\\GitHub.HunLuxLauncher\\Launcher.API\\Launcher.API\\Launcher.API.csproj",
         "projectName": "Launcher.API",
-        "projectPath": "P:\\Minecraft\\C#\\HunLux\\Launcher\\Launcher.API\\Launcher.API.csproj",
+        "projectPath": "D:\\GitHub.HunLuxLauncher\\Launcher.API\\Launcher.API\\Launcher.API.csproj",
         "packagesPath": "C:\\Users\\czompo.david\\.nuget\\packages\\",
-        "outputPath": "P:\\Minecraft\\C#\\HunLux\\Launcher\\Launcher.API\\obj\\",
+        "outputPath": "D:\\GitHub.HunLuxLauncher\\Launcher.API\\Launcher.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -26,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "P:\\NuGet": {},
+          "D:\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
